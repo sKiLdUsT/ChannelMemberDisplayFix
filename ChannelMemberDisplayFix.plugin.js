@@ -28,7 +28,7 @@ class ChannelMemberDisplayFix {
 	observer  () {}
 	getSettingsPanel  () { return '' }
 	getName  () { return 'ChannelMemberDisplayFix' }
-	getDescription  () { return 'Fixes a weird display bug with the channel member list not explanding fully in certain conditions.' }
+	getDescription  () { return 'Fixes a weird display bug with the channel member list not expanding fully in certain conditions.' }
 	getVersion  () { return '1.0.0' }
 	getAuthor  () { return 'skildust' }
 }
